@@ -1,6 +1,10 @@
 {
   "name": "vite_react_shadcn_ts",
+<<<<<<< HEAD
   "homepage": "https://Ayhammaster.github.io/ecommerce/",
+=======
+  "homepage": "https://Ayhammaster.github.io/ecommerce",
+>>>>>>> 881f2f90d8273b38afc48f351f2da5a868a16832
   "private": true,
   "version": "0.0.0",
   "type": "module",
